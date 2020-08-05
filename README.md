@@ -1,13 +1,16 @@
 ## My own projects
 
 
+##### Python
+- A simple todo App with Python: [GitHub](https://github.com/aarekr/todoApp) [Heroku] link coming
 
 
 
-## Old university projects
+## Old university projects, exercises and practice apps
 
-#### Python
+##### Python
 - [Opinahjo (in Finnish)]
+
 
 
 
