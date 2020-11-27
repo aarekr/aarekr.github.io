@@ -9,11 +9,10 @@ Main programming language used is in front of every project.
 
 
 ## 1. My own projects
-
+- Python: Every Euro app: [EveryEuro](https://github.com/aarekr/EveryEuro)
 
 ## 2. Projects based on tutorials
 - Python: Blog app based on Miguel Grinberg's Flask Mega Tutorial: [Microblog](https://github.com/aarekr/Microblog) [Heroku] link coming soon
-
 
 ## 3. University projects, exercises and practice apps (some in Finnish)
 - Python: Database app: [Opinahjo](https://github.com/aarekr/Opinahjo)
@@ -23,6 +22,7 @@ Main programming language used is in front of every project.
 - React: Fullstack course exercise: [Puhelinluettelo](https://github.com/aarekr/puhelinluettelo)
 - React: Fullstack course exercise: [Unicafe](https://github.com/aarekr/unicafe)
 
+- Node.js: Fullstack course exercise: [Puhelinluettelo Backend](https://github.com/aarekr/puhelinluetteloBackend)
 
 ## Links and resources
 - Python: [Tietokantasovellus 2020](https://materiaalit.github.io/tsoha-20/)
